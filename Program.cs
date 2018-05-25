@@ -9,11 +9,8 @@ namespace entityframeworkcore
 {
     class Program
     {
-
         static void Main(string[] args)
         {
-
-
             var commands = new[]{
                 "get all students",
                 "read student by id",
